@@ -1,5 +1,7 @@
 Screen Capture Utility
 
+![img](KeyCaptureScreen.png)
+
 1. 영역지정
 2. 캡쳐한후 어디에 저장할 지 폴더 위치 저장
 3. F12를 통해 캡쳐
